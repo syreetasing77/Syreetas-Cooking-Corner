@@ -3,7 +3,7 @@
 [View it here](https://syreetasing77.github.io/Syreetas-Cooking-Corner)
 
 ## 📖 Recipes
-- Pork Chops
+- Pork Chops, Chicken, Seafood
 
 ## 🛠️ Built With
 - HTML5
